@@ -18,7 +18,7 @@ This Django application provides a machine learning-powered web interface for pr
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/house-price-predictor.git
+git clone https://github.com/AbdulAbdullah/houseprice.git
 cd house-price-predictor
 ```
 
@@ -103,4 +103,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Your Name - your.email@example.com
 
-Project Link: [https://github.com/yourusername/house-price-predictor](https://github.com/yourusername/house-price-predictor)
+Project Link: [https://github.com/AbdulAbdullah/houseprice.git](https://github.com/AbdulAbdullah/houseprice.git)
